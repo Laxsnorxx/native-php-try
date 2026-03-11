@@ -1,5 +1,9 @@
 {
-  "appId": "com.example.app",
-  "appName": "reden-try",
-  "webDir": "dist"
+    "appId": "com.redentry.app",
+    "appName": "reden-try",
+    "webDir": "public",
+    "server": {
+        "url": "http://192.168.1.5:8000",
+        "cleartext": true
+    }
 }
