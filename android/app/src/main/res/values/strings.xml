@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">reden-try</string>
+    <string name="title_activity_main">reden-try</string>
+    <string name="package_name">com.redentry.app</string>
+    <string name="custom_url_scheme">com.redentry.app</string>
+</resources>
